@@ -5,4 +5,4 @@
 <br>
 
 ## Screenshot📸
-<img src="./screenshot/quiz.gif" width="900" height="450">
+<img src="./screenshot/quiz.gif" width="900" height="600">
